@@ -7,7 +7,9 @@ public class framework {
 
   String  nome;
   Double tempo;
- 
+  Double fala;
+  Double função;
+
 
 
 
