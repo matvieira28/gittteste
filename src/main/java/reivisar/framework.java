@@ -9,7 +9,10 @@ public class framework {
   Double tempo;
   Double fala;
   Double função;
-
+  
+  
+  String deucerto;
+  
 
 
 
